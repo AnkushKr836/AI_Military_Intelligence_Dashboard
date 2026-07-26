@@ -17,6 +17,17 @@ the [Global Terrorism Database (GTD)](https://www.kaggle.com/datasets/START-UMD/
 | 08 | Data Explorer | Filter, search, export raw data |
 | 09 | Settings | Dashboard configuration |
 
+## Screenshots
+
+   ### Home
+   ![Home](assets/Home.png)
+
+   ### Global Threat Map
+   ![Global Threat Map](assets/GlobalThreatMap.png)
+
+   ### Threat Prediction
+   ![Threat Prediction](assets/ThreatPrediction.png)
+
 ## Project Structure
 
 ```
